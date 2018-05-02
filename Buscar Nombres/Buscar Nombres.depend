@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1523027437 source:c:\users\alehe\documents\trabajos\1er ciclo\programas\buscar nombres\main.cpp
+	<iostream>
+	<windows.h>
+
